@@ -1,2 +1,2 @@
-# Mi primera aplicacion en Flutter (Hello word)
+# Mi primera aplicacion en Flutter (Hello world)
 
